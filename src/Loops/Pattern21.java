@@ -44,7 +44,7 @@ public class Pattern21 {
                 System.out.println();
                 row++;
                 space-=2;
-
+                star++;
             }
     }
 }
