@@ -29,7 +29,7 @@ public class Pattern12 {
                     System.out.print("* ");
                 }
                 else {
-                    System.out.print("! ");
+                    System.out.print(" ");
                 }
                 j++;
             }
